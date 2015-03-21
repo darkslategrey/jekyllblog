@@ -8,7 +8,7 @@ C'est un processus interessant celui du choix de la langue  par un
 locuteur multilingue. Le contexte, l'état interne ? Quels mécanismes
 sont en jeu ? Ce qui est sur, c'est qu'il veut être compris. 
 
-Il faut lui faut donc se construire (se reconstruire ?) une
+Il lui faut donc se construire (se reconstruire ?) une
 représentation du monde qui lui semble la plus proche de celle qu'il
 se fait que son interlocuteur a.
 
