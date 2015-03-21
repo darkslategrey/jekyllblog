@@ -1,6 +1,6 @@
 # Site settings
-title: Darkslategrey
-email: greg.faruch@gmail.com
+title: darkslategrey thougths
+email: darkslategrey@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Simple thoughts
 baseurl: "" # the subpath of your site, e.g. /blog/
