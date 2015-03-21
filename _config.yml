@@ -1,0 +1,12 @@
+# Site settings
+title: Darkslategrey
+email: greg.faruch@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Simple thoughts
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://darkslategrey.github.io"
+twitter_username: darkslategrey
+github_username:  darkslategrey
+
+# Build settings
+markdown: kramdown
