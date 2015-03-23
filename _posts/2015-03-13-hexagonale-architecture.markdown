@@ -3,6 +3,7 @@ layout: post
 title:  "Hexagonale architecture"
 date:   2015-03-21 12:01:04
 categories: softwarese 
+published: false
 ---
 C'est un sujet que j'aborde récemment. 
 
@@ -24,7 +25,7 @@ Certains_
 
 Un nom + un moment + un contenu + un emeteur + un/des recepteurs + un média
 
+J'ai croisé les micros services, la programmation par envoi de
+messages.
 
 
-
-J'ai croisé les micros services, la programmation par envoi de messages
